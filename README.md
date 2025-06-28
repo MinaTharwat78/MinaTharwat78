@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MinaTharwat78
 - 👀 I’m interested in technology  
-- 🌱 I’m currently learning ALX software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
